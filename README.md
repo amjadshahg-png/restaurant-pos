@@ -36,7 +36,7 @@ A desktop **Point-of-Sale (POS)** application built with **Python**, using **Tki
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/restaurant-pos.git
+git clone https://github.com/amjadshahg-png/restaurant-pos.git
 cd restaurant-pos
 ```
 
@@ -99,9 +99,9 @@ restaurant-pos/
 ## 👨‍💻 Author
 
 **Muhammad Amjad Aziz Shah**  
-BS Software Engineering — Iqra University, Islamabad (Semester 6)  
-📧 amjadaziz@email.com  
-🔗 [GitHub Profile](https://github.com/YOUR_USERNAME)
+BS Software Engineering — Iqra University, Islamabad   
+📧 amjadshahg26@email.com  
+🔗 [GitHub Profile](https://github.com/amjadshahg-png)
 
 ---
 
